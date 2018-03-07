@@ -3,6 +3,6 @@ Script in Ruby.
 
 ### Launch the game
 
-- Download the `script.rb` 
+- Download the `run.rb` 
 - Open the Terminal
 - Execute the script with Ruby.
